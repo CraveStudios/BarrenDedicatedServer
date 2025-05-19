@@ -1,0 +1,18 @@
+This project, Barren Dedicated Server, was originally created by Extx (https://github.com/fwextx).
+
+Copyright 2025 Extx
+
+Licensed under the Apache License, Version 2.0 (the "License").
+You may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Additional Requirement:
+-----------------------
+If you distribute a modified version of this software (including but not limited to forks, modded servers, or customized builds), you must retain this NOTICE file **and** clearly credit the original author, Extx, in the following ways:
+
+- In your source code repository (e.g., README, LICENSE, or equivalent).
+- In your server's documentation or configuration files distributed with the server.
+
+This is a courtesy and requirement to acknowledge the original work.
